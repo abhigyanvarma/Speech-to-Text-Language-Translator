@@ -53,8 +53,6 @@ python app.py
 └── 📄 README.md           # Project documentation
 
 
-
-
 ## Dependencies  
 - `SpeechRecognition` – For speech-to-text conversion  
 - `googletrans` – For translation  
