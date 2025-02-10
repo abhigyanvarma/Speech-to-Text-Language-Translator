@@ -47,8 +47,11 @@ python app.py
 
 📂 LANGUAGE-TRANSLATE-MAIN
 ├── 📄 app.py              # Main Python script
+
 ├── 📄 requirements.txt    # Required dependencies
+
 ├── 📂 outputs             # Folder where translated speech MP3 files are stored
+
 └── 📄 README.md           # Project documentation
 
 
