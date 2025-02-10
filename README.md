@@ -16,6 +16,7 @@ This Python project captures speech, detects the language, translates it into th
 ### **1. Clone the Repository**  
 bash
 git clone https://github.com/abhigyanvarma/Speech-to-Text-Language-Translator
+
 cd Speech-to-Text-Language-Translator
 
 
